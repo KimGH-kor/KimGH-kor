@@ -3,10 +3,11 @@
 <br>
 
 <h1>Hi There</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGH-kor&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGH-kor&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=socoolq)](https://solved.ac/socoolq/)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimGH-kor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
