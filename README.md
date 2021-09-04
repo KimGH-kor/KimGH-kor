@@ -3,13 +3,21 @@
 <br>
 
 <h1>Hi There</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=Park%20Young%20Bin's%20GitHub%20Profile&fontSize=45)
+# Hi, I'm YoungBin Park 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
+# Hi, I'm YoungBin Park 👋 
 
-@@ -29,7 +29,7 @@ I’m currently working on Seoul.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=white)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=white)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)-->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pyb971219@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/qkrdudqlsdhk)
+@@ -9,7 +9,7 @@
+- 🥇 I majored in Statistics and my minor is Healthcare Data Science.
+- 🚅 My hometown is Jongno-go, Seoul in Korea
+
+### Interest
+### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=Park-Young-Bin" height="180"> 
+- &#128202; Data Analysis and Data Visualization
+- &#128187; AI, Machine Learning
+
 
 
 
