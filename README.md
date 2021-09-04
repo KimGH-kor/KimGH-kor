@@ -5,7 +5,6 @@
 <h1>Hi There</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGH-kor)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=socoolq)](https://solved.ac/socoolq/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGH-kor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
