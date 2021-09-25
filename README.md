@@ -7,7 +7,6 @@ Hi there, I'm GyoungHwan Kim
 こんにちは、キム・ギョンファンと申します。
 <br>
 どうぞよろしくお願いいたします。
-<br>
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGH-kor)](https://github.com/anuraghazra/github-readme-stats)
